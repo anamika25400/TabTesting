@@ -1,0 +1,6 @@
+framework module Pods_TabTesting_TabTestingUITests {
+  umbrella header "Pods-TabTesting-TabTestingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
